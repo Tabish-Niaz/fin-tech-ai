@@ -1,0 +1,4 @@
+.env
+.langchain_cache.db
+__pycache__/
+.DS_Store
